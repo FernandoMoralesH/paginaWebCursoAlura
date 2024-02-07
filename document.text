@@ -1,0 +1,21 @@
+\documentclass{article}
+\usepackage{amsmath}
+
+\begin{document}
+
+La integral definida es:
+
+\[
+\int_{0}^{3.5} t^2 (7 - \sqrt{t}) \, dt
+\]
+
+Para encontrar la primitiva y evaluarla en los límites de integración, obtenemos:
+
+\[
+\left[\frac{7}{3}t^3 - \frac{2}{7}t^{7/2}\right]_{0}^{3.5}
+\]
+
+El resultado numérico es aproximadamente 42.0625.
+
+\end{document}
+
